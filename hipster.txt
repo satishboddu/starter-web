@@ -1,5 +1,9 @@
 hello everyone this a a hipster .txt file.. 
-fljdkfld
+fljdkfld-- 2nd line changes
+3rd line added to the file..
+4th fith and sixth lines have been added to the file regardless of the employee in the compnay 
+ 
+ 
 kjfd
 dlld
 kkd
